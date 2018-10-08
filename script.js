@@ -87,3 +87,21 @@ var newItem = {
 };
 
 addItem(newItem);
+
+//5b:
+
+function sortCart(keyname){
+    
+}
+
+//5c:
+
+function findByName(name){
+    
+}
+
+//5d:
+
+function totalPrice(){
+    
+}
